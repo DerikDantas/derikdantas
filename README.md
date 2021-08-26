@@ -3,10 +3,16 @@
 
 
 - 🔭 Atualmente trabalho na T10 Bank em Campinas. [https://t10bank.com.br/](https://t10bank.com.br/)
+- 🌱 Atualmente desenvolvendo em **ReactJS**
+- 👨‍💻 Conheça meu site [https://derikdantas.github.io/](https://derikdantas.github.io/)
+- 📫 Envie um e-mail **derikdantas@gmail.com**
 
 <h3 align="left">Entre em Contato:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/derik-oliveira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="derik-oliveira" height="30" width="40" /></a>
+</p>
+<p align="left">
+<a href="/https://derikdantas.github.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://derikdantas.github.io/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
@@ -14,3 +20,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=derikdantas&label=Profile%20views&color=0e75b6&style=flat" alt="derikdantas" /> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=derikdantas&show_icons=true&locale=en&layout=compact" alt="derikdantas" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=derikdantas&show_icons=true&locale=en" alt="derikdantas" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=derikdantas&" alt="derikdantas" /></p>
