@@ -22,7 +22,7 @@
     <img src="https://komarev.com/ghpvc/?username=derikdantas&label=Profile%20views&color=0e75b6&style=flat" alt="derikdantas" />
 </p>
 
-<p>
+<p style="display: flex; align-items: center">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=derikdantas&show_icons=true&locale=en&layout=compact" alt="derikdantas" />
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=derikdantas&show_icons=true&locale=en" alt="derikdantas" />
 </p>
