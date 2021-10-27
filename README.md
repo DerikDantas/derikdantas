@@ -5,7 +5,7 @@
 - 🔭 Atualmente trabalho na T10 Bank em Campinas. [https://t10bank.com.br/](https://t10bank.com.br/)
 - 🌱 Atualmente desenvolvendo em **ReactJS**
 - 👨‍💻 Conheça meu site [https://derikdantas.github.io/](https://derikdantas.github.io/)
-- 📫 Envie um e-mail **derikdantas@gmail.com**
+- 📫 Envie um e-mail **derikdantas@hotmail.com**
 
 <h3 align="left">Entre em Contato:</h3>
 <p align="left">
