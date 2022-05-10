@@ -2,7 +2,7 @@
 <h3 align="center">Sou desenvolvedor front-end de Campinas/SP. Tenho uma grande paixão por efeitos de interface do usuário, animações e criação de experiências intuitivas e dinâmicas para o usuário.</h3>
 
 
-- 🔭 Atualmente trabalho na T10 Bank em Campinas. [https://t10bank.com.br/](https://t10bank.com.br/)
+- 🔭 Atualmente trabalho na Sensedia. [https://sensedia.com.br/](https://sensedia.com.br/)
 - 🌱 Atualmente desenvolvendo em **ReactJS**
 - 👨‍💻 Conheça meu site [https://derikdantas.github.io/](https://derikdantas.github.io/)
 - 📫 Envie um e-mail **derikdantas@hotmail.com**
