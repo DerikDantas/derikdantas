@@ -10,7 +10,6 @@
 <h3 align="left">Entre em Contato:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/derik-oliveira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="derik-oliveira" height="30" width="40" /></a>
-<a href="/https://derikdantas.github.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://derikdantas.github.io/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
