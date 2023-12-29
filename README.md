@@ -4,6 +4,7 @@
 
 - 🔭 Atualmente trabalho na Sensedia. [https://sensedia.com.br/](https://sensedia.com.br/)
 - 🌱 Atualmente desenvolvendo em **ReactJS**
+- 🎒 Formado em Ciencias da Computação
 - 👨‍💻 Conheça meu site [https://derikoliveira.com.br/](https://derikoliveira.com.br/)
 - 📫 Envie um e-mail **derikdantas@hotmail.com**
 
