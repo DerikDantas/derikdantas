@@ -1,7 +1,7 @@
 <h1 align="center">Olá, sou Dérik Oliveira</h1>
 <h3 align="center">Sou desenvolvedor front-end, com mais de quatro anos de dedicação ao Front-End. Minha jornada é impulsionada pela paixão por explorar os domínios dos efeitos de interface do usuário, sistemas e a busca incessante por criar experiências envolventes e intuitivas.</h3>
 
-- 🔭 Atualmente trabalho na [Sensedia](https://sensedia.com.br/)
+- 🔭 Atualmente trabalho na [Stone](https://stone.com.br/)
 - 🎒 Formado em Ciencias da Computação
 - 👨‍💻 [Conheça meu site](https://derikoliveira.com.br/)
 - 📫 [Envie um e-mail](mailto:derikdantas@hotmail.com)
