@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente trabalho na [Stone Co.](https://stone.com.br/) como **Engenheiro de Software**
 - 🎒 Formado em Ciencias da Computação
-- <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="derik-oliveira" height="15" width="20" /> [Meu LinkedIn](https://linkedin.com/in/derik-oliveira)
+- <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="derik-oliveira" height="15" width="20" /> [Meu LinkedIn](https://www.linkedin.com/in/derik-oli/)
 - 📫 [Envie um e-mail](mailto:derikdantas@hotmail.com)
 
 <h3>
